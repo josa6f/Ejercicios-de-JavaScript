@@ -31,42 +31,42 @@ Un alumno desea saber cuál será su calificación final en la materia de progra
 
 Condicionales
 
-Ejercicio 1 -
+Ejercicio 7 -
 Ingrese un numero entero y reporte si es par o impar
 
-Ejercicio 2 -
+Ejercicio 8 -
 Determine si un alumno aprueba o reprueba un curso, sabiendo que aprobara si  su promedio de tres calificaciones es mayo igual a 70; reprobara en caso contrario. 
 
-Ejercicio 3 -
+Ejercicio 9 -
 En un almacén hace un 20% de descuento a los clientes cuya compra supere los $100.00 dólares, ¿Cuál será la cantidad que pagara una persona al capturar su cantidad de compra? (Si es menor a $100.00 no obtendrá ningún descuento).
 
-Ejercicio 4 -
+Ejercicio 10 -
 Leer 2 números; si son iguales que se multipliquen, si el primero es mayor que el segundo, entonces que se resten y si no que se sumen.
 
-Ejercicio 5 -
+Ejercicio 11 -
 Pedir al usuario tres números diferentes e imprimir el numero mayor de los tres. 
 
-Ejercicio 6 -
+Ejercicio 12 -
 Una frutería ofrece  el Kg de manzanas en $ 5.00 dólares pero maneja varios descuentos, como se muestran en la tabla:
 
 ![image](https://user-images.githubusercontent.com/109090060/197409688-1088bec2-d367-431e-bc82-ee01cd72dfd3.png)
 
 Determina cuánto pagará una persona que compre manzanas en esa fruteria. (La cantidad de kilos es ingresada por el usuario).
 
-Ejercicio 7 -
+Ejercicio 13 -
 
 Elabora un programa que muestre los días de la semana al digitar un número, según la siguiente tabla:
 
 ![image](https://user-images.githubusercontent.com/109090060/197409933-22dfdff5-b6bd-457a-8950-52c6062ca7b8.png)
 
-Ejercicio 8 -
+Ejercicio 14 -
 Elabora un programa que me muestre el significado de aniversario de cada década, como se muestra en la siguiente tabla:
 
 ![image](https://user-images.githubusercontent.com/109090060/197410209-2f997ac9-898f-4f63-b903-ceb0e7328f5e.png)
 
 ingresando el número de años por teclado.
 
-Ejercicio 9 - 
+Ejercicio 15 - 
 Hacer un programa que tenga un menú con las siguientes opciones:
 -	Opción 1: Elevar un numero a una potencia X
 -	Opción 2: Sacar la raíz cuadrada de un numero 
