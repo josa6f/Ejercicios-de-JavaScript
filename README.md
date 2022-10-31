@@ -72,6 +72,13 @@ Hacer un programa que tenga un menú con las siguientes opciones:
 -	Opción 2: Sacar la raíz cuadrada de un numero 
 -	Opción 3: salir 
 
+Ejercicio 16 -
+Hacer un programa donde el usuario meta un numero “N” y que el programa realice la suma desde 1 hasta N. 
+
+Ejercicio 17 -
+Hacer un programa donde calcules la suma de números pares e impares independientemente entre 1 y 50. 
+
+
 
 
 
