@@ -8,7 +8,7 @@ donde debemos de solucionarlos en base a la programación estructurada mediante 
 donde usaremos IF, ELSE IF, ELSE y también utilizaremos los ciclos como FOR, WHILE y DO WHILE. 
 
 Ejercicio 1 -
-Calcula la cantidad de segundos que están incluidos en el numero de horas, de minutos y se segundos ingresados por el usuario. 
+Calcula la cantidad de segundos que están incluidos en el numero de horas, de minutos y de segundos ingresados por el usuario. 
 
 Ejercicio 2 - 
 Hacer un programa donde al ingresar el radio de un circulo se nos muestre su área y la longitud de su circunferencia. 
