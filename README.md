@@ -80,6 +80,9 @@ Hacer un programa donde el usuario meta un numero “N” y que el programa real
 Ejercicio 17 -
 Hacer un programa donde calcules la suma de números pares e impares independientemente entre 1 y 50. 
 
+Ejercicio 18 -
+crear un programa que te de un numero random del 1 al 10, despues te pida un numero de igual manera del 1 al 10 y al final te diga si acertaste o fallaste y muestre que numero era el que habia creado.
+
 
 
 
